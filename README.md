@@ -36,7 +36,7 @@ Configuración de tu tarjeta con Thonny:
 1. Clona este repositorio en tu sistema:
 
    ```bash
-   git clone https://github.com/user/repo-json-dualmcu.git
+    gh repo clone UNIT-Electronics/DualMCU_Manejo_de_almacenamiento
 
    ## Manejo de Memoria en la DualMCU con MicroPython
 
